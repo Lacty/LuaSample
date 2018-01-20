@@ -9,7 +9,7 @@
             "type": "lua",
             "request": "launch",
             "stopOnEntry": true,
-            "program": "${workspaceRoot}/samp01/main.lua",
+            "program": "${workspaceRoot}/main.lua",
             "cwd": "${workspaceRoot}",
             "path": "${workspaceRoot}/?.lua",
             "cpath": "${workspaceRoot}/?.dll",
